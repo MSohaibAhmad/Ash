@@ -1,2 +1,9 @@
 Console.Writeline("Muhmmad Sohaib Ahmad");
 Console.Writeline("24-ST-040");
+Console.Writeline("Physics");
+Console.Writeline("Chemistry");
+Console.Writeline("Maths");
+Console.Writeline("English");
+Console.Writeline("Urdu");
+Console.Writeline("Islamiyat");
+Console.Writeline("Pak Studies");
